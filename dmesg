@@ -1,3 +1,4 @@
+dump_cpu_task+0x39/0x70
 74753.614673] systemd-journald[23809]: File /run/log/journal/
 [74768.775807] input: spice vdagent tablet as /devices/virtual/input/input7
 [74877.023101] input: spice vdagent tablet as /devices/virtual/input/input8
